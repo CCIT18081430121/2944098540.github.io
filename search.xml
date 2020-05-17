@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>图片的插入和评论</title>
+    <url>/2020/03/27/%E5%9B%BE%E7%89%87%E7%9A%84%E6%8F%92%E5%85%A5%E5%92%8C%E8%AF%84%E8%AE%BA/</url>
+    <content><![CDATA[<p>图片的插入</p>
+<p><a href="http://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=海贼王&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2129255272,1886334624&os=2619448526,4294612036&simid=0,0&pn=50&rn=1&di=144680&ln=1952&fr=&fmq=1585287985390_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=11&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fimg.qikula.com%2Ffile%2Fimage%2Fpic%2F5a2738672165n3685535332c27.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined" target="_blank" rel="noopener"><img src="http://img4.imgtn.bdimg.com/it/u=2129255272,1886334624&fm=11&gp=0.jpg" alt="img"></a></p>
+<p>Finish</p>
+<p>评论</p>
+<p>在友言官网注册账号，得到用户ID<br>将<strong>友言ID</strong>复制到NexT主题的配置文件<strong>_config</strong>中，搜索youyan，将<strong>youyan_uid</strong>前面的#号去掉，将id填写到<strong>youyan_uid：</strong>后面。</p>
+<p>Finish </p>
+]]></content>
+  </entry>
+  <entry>
+    <title>附加功能  背景音乐</title>
+    <url>/2020/03/27/%E9%99%84%E5%8A%A0%E5%8A%9F%E8%83%BD%20%20%E8%83%8C%E6%99%AF%E9%9F%B3%E4%B9%90/</url>
+    <content><![CDATA[<p>附加功能  背景音乐</p>
+<p> 进入网易云，找到自己喜欢的歌单，然后点击<strong>生成外链播放器</strong> </p>
+<p><a href="http://music.163.com/m/playlist?id=2299097616&amp;userid=1630413757" target="_blank" rel="noopener">http://music.163.com/m/playlist?id=2299097616&amp;userid=1630413757</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>本地</title>
+    <url>/2020/03/27/%E6%9C%AC%E5%9C%B0/</url>
+    <content><![CDATA[<hr>
+<hr>
+<p>本地预览</p>
+<p><img src="D:%5Cpublic%5C4.png" alt="4"></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s</span><br><span class="line">hexo new&quot;my 233&#39;s&quot;</span><br></pre></td></tr></table></figure>
+
+<p>Finish</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>My awesome title</title>
+    <url>/2016/10/12/github/</url>
+    <content><![CDATA[<p>github</p>
+<p>账号 <a href="mailto:2944098540@qq.com">2944098540@qq.com</a></p>
+<p>新建仓库时 GitHub page ![timg](C:\Users\nsus\Desktop\hexo img\timg.jpg)要选择 master 分支</p>
+]]></content>
+  </entry>
+</search>
