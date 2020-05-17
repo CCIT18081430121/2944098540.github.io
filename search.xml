@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>github</title>
+    <url>/2020/05/17/github/</url>
+    <content><![CDATA[<p>github</p>
+<p>账号 <a href="mailto:2944098540@qq.com">2944098540@qq.com</a></p>
+<p>新建仓库时 GitHub page 要选择 master 分支</p>
+<p>![timg](C:\Users\nsus\Desktop\hexo img\timg.jpg)</p>
+]]></content>
+  </entry>
+  <entry>
     <title>图片的插入和评论</title>
     <url>/2020/03/27/%E5%9B%BE%E7%89%87%E7%9A%84%E6%8F%92%E5%85%A5%E5%92%8C%E8%AF%84%E8%AE%BA/</url>
     <content><![CDATA[<p>图片的插入</p>
@@ -29,14 +38,6 @@
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo s</span><br><span class="line">hexo new&quot;my 233&#39;s&quot;</span><br></pre></td></tr></table></figure>
 
 <p>Finish</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>My awesome title</title>
-    <url>/2016/10/12/github/</url>
-    <content><![CDATA[<p>github</p>
-<p>账号 <a href="mailto:2944098540@qq.com">2944098540@qq.com</a></p>
-<p>新建仓库时 GitHub page ![timg](C:\Users\nsus\Desktop\hexo img\timg.jpg)要选择 master 分支</p>
 ]]></content>
   </entry>
 </search>
