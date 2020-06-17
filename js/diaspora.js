@@ -304,7 +304,7 @@ $(function() {
             e.preventDefault()
         }
     })
-	
+
 	//搜搜
 	var searchFunc = function(path, search_id, content_id) {
 		'use strict'; //使用严格模式
@@ -394,8 +394,8 @@ $(function() {
 	if(document.getElementById('local-search-input') !== null){
 		searchFunc(path, 'local-search-input', 'local-search-result');
 	}
-	
-	
+    
+    
     var typed = null;
     $('body').on('click', function(e) {
         var tag = $(e.target).attr('class') || '',
